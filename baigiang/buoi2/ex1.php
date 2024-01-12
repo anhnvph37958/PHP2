@@ -111,7 +111,8 @@ class SinhVien{
 }
 
 
-$obj2 = new SinhVien("thang",23,"Phu Tho");
+$obj2 = new SinhVien("thang",23,"Phu Tho","anh@gmail.com");
+
 
 
 
